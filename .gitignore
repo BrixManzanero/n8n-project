@@ -1,0 +1,6 @@
+n8n-data/
+.n8n/
+.cache/
+node_modules/
+credentials.json
+.env
